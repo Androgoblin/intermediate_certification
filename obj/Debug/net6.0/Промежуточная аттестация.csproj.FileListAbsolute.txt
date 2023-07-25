@@ -1,0 +1,16 @@
+C:\Users\URAN\Desktop\Промежуточная аттестация\bin\Debug\net6.0\Промежуточная аттестация.exe
+C:\Users\URAN\Desktop\Промежуточная аттестация\bin\Debug\net6.0\Промежуточная аттестация.deps.json
+C:\Users\URAN\Desktop\Промежуточная аттестация\bin\Debug\net6.0\Промежуточная аттестация.runtimeconfig.json
+C:\Users\URAN\Desktop\Промежуточная аттестация\bin\Debug\net6.0\Промежуточная аттестация.dll
+C:\Users\URAN\Desktop\Промежуточная аттестация\bin\Debug\net6.0\ref\Промежуточная аттестация.dll
+C:\Users\URAN\Desktop\Промежуточная аттестация\bin\Debug\net6.0\Промежуточная аттестация.pdb
+C:\Users\URAN\Desktop\Промежуточная аттестация\obj\Debug\net6.0\Промежуточная аттестация.GlobalUsings.g.cs
+C:\Users\URAN\Desktop\Промежуточная аттестация\obj\Debug\net6.0\Промежуточная аттестация.csproj.AssemblyReference.cache
+C:\Users\URAN\Desktop\Промежуточная аттестация\obj\Debug\net6.0\Промежуточная аттестация.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\URAN\Desktop\Промежуточная аттестация\obj\Debug\net6.0\Промежуточная аттестация.AssemblyInfoInputs.cache
+C:\Users\URAN\Desktop\Промежуточная аттестация\obj\Debug\net6.0\Промежуточная аттестация.AssemblyInfo.cs
+C:\Users\URAN\Desktop\Промежуточная аттестация\obj\Debug\net6.0\Промежуточная аттестация.csproj.CoreCompileInputs.cache
+C:\Users\URAN\Desktop\Промежуточная аттестация\obj\Debug\net6.0\Промежуточная аттестация.dll
+C:\Users\URAN\Desktop\Промежуточная аттестация\obj\Debug\net6.0\ref\Промежуточная аттестация.dll
+C:\Users\URAN\Desktop\Промежуточная аттестация\obj\Debug\net6.0\Промежуточная аттестация.pdb
+C:\Users\URAN\Desktop\Промежуточная аттестация\obj\Debug\net6.0\Промежуточная аттестация.genruntimeconfig.cache
